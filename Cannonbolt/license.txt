@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ben 10 Cannonbolt
+* source:	https://sketchfab.com/3d-models/ben-10-cannonbolt-5fad4661fe0345949231fd05a64a94b5
+* author:	Shavin vfx (https://sketchfab.com/shavinvfx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ben 10 Cannonbolt" (https://sketchfab.com/3d-models/ben-10-cannonbolt-5fad4661fe0345949231fd05a64a94b5) by Shavin vfx (https://sketchfab.com/shavinvfx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

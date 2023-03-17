@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ben 10 Wrath of Psychobos: Armodrillo
+* source:	https://sketchfab.com/3d-models/ben-10-wrath-of-psychobos-armodrillo-671aabf0712441e48d1ba8e8e9baa524
+* author:	Arturo.Wimbleton (https://sketchfab.com/Arturo.Wimbleton)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ben 10 Wrath of Psychobos: Armodrillo" (https://sketchfab.com/3d-models/ben-10-wrath-of-psychobos-armodrillo-671aabf0712441e48d1ba8e8e9baa524) by Arturo.Wimbleton (https://sketchfab.com/Arturo.Wimbleton) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

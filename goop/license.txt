@@ -1,0 +1,11 @@
+Model Information:
+* title:	Goop Ben 10
+* source:	https://sketchfab.com/3d-models/goop-ben-10-8a129c223c4d422f98054ec9eaaf651e
+* author:	kimni88 (https://sketchfab.com/gamervlogerkid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Goop Ben 10" (https://sketchfab.com/3d-models/goop-ben-10-8a129c223c4d422f98054ec9eaaf651e) by kimni88 (https://sketchfab.com/gamervlogerkid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
